@@ -1,13 +1,9 @@
 const acs = require('aoi.js');
 const bot = new acs.Bot({
-  token:"",
-  prefix:"!"
+  token:"tokeniburayagirin",//Tokeninizi Girin
+  prefix:"!" // Prefixinizi Girin
 })
 bot.onMessage();
-bot.command({
-  name:"ping",
-  code:`$addField[Pingim;$ping ms]`
-})
 bot.loadCommands(`./komutlar`);
 
 // Uptime Kodu SiLMEYİNİZ.
