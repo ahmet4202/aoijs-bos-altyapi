@@ -1,3 +1,3 @@
 Tokeni **.env** Klasörüne Gidip **token** Adlı Variablenin Değerine Yazın.
 
-Bu Altyapı **Ahmet#0004** Tarafından Yapılmıştır Tüm Hakları Saklıdır.
+Bu Altyapı **!                   Pakrez#1014** Tarafından Yapılmıştır Tüm Hakları Saklıdır.
